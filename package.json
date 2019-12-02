@@ -1,0 +1,30 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.7.2"
+  },
+  "name": "jestplayground",
+  "description": "Playground for Jest",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mweiss237/jestPlayground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mweiss237/jestPlayground/issues"
+  },
+  "homepage": "https://github.com/mweiss237/jestPlayground#readme"
+}
